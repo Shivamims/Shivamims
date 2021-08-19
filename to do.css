@@ -1,0 +1,89 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color:skyblue
+}
+.container
+{
+    width:94%;
+    margin: auto;
+}
+.card
+{
+    width: 50%;
+    background-color : red;
+    margin:auto
+}
+.card-header
+{
+    padding: 10px;
+    background-color:springgreen;
+    text-align: center;
+    color:#fff
+}
+
+.card-body
+{
+    padding:20px 30px;
+
+}
+.form-group label
+{
+    display: block;
+    color: gold;
+}
+.form-group
+{
+    margin-bottom: 30px;
+}
+.form-control
+{
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid rgb(0, 57, 143);
+}
+
+.btn
+{
+    padding: 12px;
+    border-style:groove;
+    color:fuchsia;
+    background-color: chartreuse;
+}
+.book-content
+{
+    padding:15px;
+}
+.table
+{
+    width: 100%;
+    border-collapse:collapse;
+    background-color: beige;
+}
+.table tr th, .table tr td{
+    border: 1px solid rebeccapurple;
+    padding: 7px;
+}
+i.fa.fa-trash{
+    font-size: 20px;
+    color: indianred;
+    padding: 7px;
+    margin-left: 8px;
+}
+
+i.fa.fa-edit
+{
+    font-size: 20px;
+    color:springgreen;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
